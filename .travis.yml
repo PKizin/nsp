@@ -1,5 +1,4 @@
 language: cpp
 script:
 - ./tests.sh
-- sudo apt-get install doxygen
 - ./docum.sh
