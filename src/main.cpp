@@ -5,7 +5,7 @@ using namespace std;
 #include <math.h>
 
 #define CATCH_CONFIG_RUNNER
-#include </home/gamekoff/ns/src/catch.hpp>
+#include "catch.hpp"
 
 /** \file main.cpp
  * Основной файл программы.

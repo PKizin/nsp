@@ -1,5 +1,5 @@
 #!/bin/bash
 cmake .
-make
 cd src
+g++ -Idir main.cpp -o ns
 ./ns
